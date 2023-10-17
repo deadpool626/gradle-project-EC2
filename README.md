@@ -282,4 +282,15 @@ This way, we've successfully created, modified, and bundled our small applicatio
 ---
 
 
-   
+
+---
+Summary
+That’s it! You’ve now successfully configured and built a Java application project with Gradle. You’ve learned how to:
+
+Initialize a project that produces a Java application
+
+Run the build and view the test report
+
+Execute a Java application using the run task from the application plugin
+
+Bundle the application in an archive
